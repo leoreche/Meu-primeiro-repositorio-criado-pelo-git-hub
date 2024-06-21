@@ -1,0 +1,46 @@
+* {
+    font-family: "Newsreader" ;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#img-logo {
+    width: 504px;
+    height: 693px;
+}
+
+#img-logo2 {
+    width: 780px;
+    height: 480px;
+}
+
+header {
+    margin: 45px 5px 50px 20px; 
+}
+
+.link-header {
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 130%;
+    color: #000000;
+    margin-right: 23px;
+}
+
+.button-header {
+    background: #426b1f;
+    border-radius: 8px;
+    width: 126px;
+    height: 48px;
+    color: #ffffff;
+    border: none;
+    font-size: 16px;
+    line-height: 130%;
+    font-weight: 600;
+    align-items: center;
+}
+
+#img-logo{
+    position: relative;
+    margin-left: 95px;
+}
